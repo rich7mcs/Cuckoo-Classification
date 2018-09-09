@@ -1,2 +1,2 @@
-# Cuckoo-Classificac-on
-Firmas de Cuckoo para la clasificación de malware. 
+# Cuckoo-Classification
+Cuckoo´s signatures for malware classification.
